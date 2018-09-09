@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Strata</title>
-    <link>https://example.org/</link>
+    <link>https://blog.marconila.com/</link>
     <description>Recent content on Strata</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 08 Sep 2018 22:45:17 -0500</lastBuildDate>
     
-	<atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.marconila.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Test title</title>
-      <link>https://example.org/test-title/</link>
+      <link>https://blog.marconila.com/test-title/</link>
       <pubDate>Sat, 08 Sep 2018 22:45:17 -0500</pubDate>
       
-      <guid>https://example.org/test-title/</guid>
+      <guid>https://blog.marconila.com/test-title/</guid>
       <description>hi hi :)</description>
     </item>
     
