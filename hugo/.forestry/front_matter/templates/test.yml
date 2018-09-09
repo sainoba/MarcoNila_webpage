@@ -5,3 +5,5 @@ is_partial: false
 fields:
 - type: text
   default: Hello
+pages:
+- hugo/content/test-title.md
